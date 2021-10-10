@@ -59,10 +59,28 @@ export default {
   border:1px solid transparent;
   outline:none;
   border-radius: var(--radius);
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px auto;
+  cursor: pointer;
+}
+.btn--danger{
+  background: var(--danger);
+}
+.btn--delete{
+  margin-top:100px;
 }
 [disabled]{
   cursor: not-allowed;
   opacity: .2;
+}
+li{
+  list-style: none;
+  text-align: left;
+}
+ul{
+  padding: 0;
 }
 
 </style>
