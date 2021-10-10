@@ -17,3 +17,11 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### lesson contains 
+
+
+* Lifecycle hooks
+
+* Custom events with data
