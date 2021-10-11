@@ -35,7 +35,7 @@
 </script>
 <style scoped>
     .block {
-        width: 400px;
+        width: clamp(320px,100vw,500px);
         padding: 150px 0;
         background: var(--success);
         margin: 50px auto;

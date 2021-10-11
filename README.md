@@ -24,7 +24,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 * Lifecycle hooks
 
-* Custom events with data
+* Custom events with data 
 
 ![empty](src\assets\img\empty.png)
 ![empty](src\assets\img\play.png)

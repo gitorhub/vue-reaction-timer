@@ -41,6 +41,9 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+body{
+  margin: 0;
+}
 :root{
   --success:green;
   --danger:crimson;
@@ -69,7 +72,7 @@ export default {
   background: var(--danger);
 }
 .btn--delete{
-  margin-top:100px;
+  margin-top:300px;
 }
 [disabled]{
   cursor: not-allowed;
